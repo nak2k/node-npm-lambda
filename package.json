@@ -38,6 +38,7 @@
   "scripts": {},
   "files": [
     "README.md",
+    "bin/",
     "lib/"
   ]
 }
