@@ -1,6 +1,6 @@
 {
   "name": "npm-lambda",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Deploy Lambda from npm",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bin": {
