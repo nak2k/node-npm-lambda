@@ -34,7 +34,9 @@
     "type": "git",
     "url": "git+https://github.com/nak2k/node-npm-lambda.git"
   },
-  "scripts": {},
+  "scripts": {
+    "postpublish": "npm-sns"
+  },
   "files": [
     "README.md",
     "bin/",
