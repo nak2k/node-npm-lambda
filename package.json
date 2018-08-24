@@ -10,11 +10,11 @@
     "url": "https://github.com/nak2k/node-npm-lambda/issues"
   },
   "dependencies": {
-    "aws-sdk": "^2.295.0",
+    "aws-sdk": "^2.300.0",
     "aws-sdk-config-loader": "^1.0.1",
     "chalk": "^2.4.1",
     "concat-stream": "^1.6.2",
-    "npm-lambda-pack": "^0.1.4",
+    "npm-lambda-pack": "^0.1.5",
     "read-json": "^1.0.3",
     "run-parallel": "^1.1.9",
     "run-waterfall": "^1.1.6",
