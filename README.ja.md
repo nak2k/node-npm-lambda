@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm i npm-lambda -S
+npm i npm-lambda
 ```
 
 ## License
