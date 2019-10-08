@@ -12,14 +12,14 @@
   "dependencies": {
     "aws-sdk": "^2.300.0",
     "chalk": "^2.4.1",
-    "concat-stream": "^1.6.2",
+    "concat-stream": "^2.0.0",
     "npm-lambda-pack": "^0.1.5",
     "read-json": "^1.0.3",
     "run-parallel": "^1.1.9",
     "run-waterfall": "^1.1.6",
-    "trash": "^4.3.0",
+    "trash": "^6.0.0",
     "write-json": "^3.0.1",
-    "yargs": "^12.0.1"
+    "yargs": "^14.2.0"
   },
   "devDependencies": {},
   "homepage": "https://github.com/nak2k/node-npm-lambda",
